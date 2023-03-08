@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1499843466 source:f:\compiler\lab\lab\codeforstudent\lexemechecking.cpp
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<string.h>
+
+1499843466 source:f:\compiler\lab\lab\lexicalerrorcheck\lexemechecking.cpp
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<string.h>
+
+1499837182 source:e:\cse324\lexicalerrorcheck-20220825t104559z-001\lexicalerrorcheck\lexicalerrorcheck\lexemechecking.cpp
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<string.h>
+

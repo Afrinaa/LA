@@ -1,0 +1,9 @@
+int main()
+{
+int number1 , number2 , sum ;
+printf(" Input two number from keyboard " );
+scanf(" % d % d " , & number1 , & 2number );
+sum = number1 + number2 ; 
+printf(" sum of two number is : % d " , sum ); 
+return 0 ; 
+}
